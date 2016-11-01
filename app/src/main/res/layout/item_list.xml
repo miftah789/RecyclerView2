@@ -40,4 +40,5 @@
         android:maxLines="2"
         android:textAppearance="@style/TextAppearance.AppCompat.Medium"
         tools:text="Deskripsi" />
+
 </RelativeLayout>
